@@ -1,0 +1,75 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SktPicPath/1.ico</file>
+        <file>SktPicPath/1.png</file>
+        <file>SktPicPath/2.ico</file>
+        <file>SktPicPath/2d11.png</file>
+        <file>SktPicPath/2d12.png</file>
+        <file>SktPicPath/3.ico</file>
+        <file>SktPicPath/3.png</file>
+        <file>SktPicPath/4.ico</file>
+        <file>SktPicPath/11-1_03.png</file>
+        <file>SktPicPath/102.png</file>
+        <file>SktPicPath/103.png</file>
+        <file>SktPicPath/add.png</file>
+        <file>SktPicPath/add2.png</file>
+        <file>SktPicPath/bk.png</file>
+        <file>SktPicPath/button_bg.png</file>
+        <file>SktPicPath/cma_03-1-8.png</file>
+        <file>SktPicPath/cma_03-07.png</file>
+        <file>SktPicPath/cma_03-07-.png</file>
+        <file>SktPicPath/cma_03-09.png</file>
+        <file>SktPicPath/cma_03-09-.png</file>
+        <file>SktPicPath/cma_03-11.png</file>
+        <file>SktPicPath/cma_03-11-.png</file>
+        <file>SktPicPath/cma_03-16.png</file>
+        <file>SktPicPath/cma_03-16-.png</file>
+        <file>SktPicPath/cma_03-17.png</file>
+        <file>SktPicPath/cma_03-17-.png</file>
+        <file>SktPicPath/cma_03-18.png</file>
+        <file>SktPicPath/cma_03-22.png</file>
+        <file>SktPicPath/cma_03-22-.png</file>
+        <file>SktPicPath/cma_03-23.png</file>
+        <file>SktPicPath/cma_03-23-.png</file>
+        <file>SktPicPath/cma_03-24.png</file>
+        <file>SktPicPath/cma_03-24-.png</file>
+        <file>SktPicPath/down2.png</file>
+        <file>SktPicPath/icon_01.png</file>
+        <file>SktPicPath/icon_01h.png</file>
+        <file>SktPicPath/icon_02.png</file>
+        <file>SktPicPath/icon_02h.png</file>
+        <file>SktPicPath/icon_03.png</file>
+        <file>SktPicPath/icon_03h.png</file>
+        <file>SktPicPath/icon_04.png</file>
+        <file>SktPicPath/icon_04h.png</file>
+        <file>SktPicPath/icon_05.png</file>
+        <file>SktPicPath/icon_05h.png</file>
+        <file>SktPicPath/icon_close.png</file>
+        <file>SktPicPath/icon_closeh.png</file>
+        <file>SktPicPath/icon_closez.png</file>
+        <file>SktPicPath/icon_down.png</file>
+        <file>SktPicPath/icon_downh.png</file>
+        <file>SktPicPath/icon_downz.png</file>
+        <file>SktPicPath/icon_home.png</file>
+        <file>SktPicPath/icon_homeh.png</file>
+        <file>SktPicPath/icon_jiankong .png</file>
+        <file>SktPicPath/icon_jiankong h.png</file>
+        <file>SktPicPath/icon_Load .png</file>
+        <file>SktPicPath/icon_Load h.png</file>
+        <file>SktPicPath/icon_max.png</file>
+        <file>SktPicPath/icon_maxh.png</file>
+        <file>SktPicPath/icon_small.png</file>
+        <file>SktPicPath/icon_smallh.png</file>
+        <file>SktPicPath/icon_smallz.png</file>
+        <file>SktPicPath/icon_speaker.png</file>
+        <file>SktPicPath/logo.png</file>
+        <file>SktPicPath/pic_01.png</file>
+        <file>SktPicPath/pic_02h.png</file>
+        <file>SktPicPath/shezhi.png</file>
+        <file>SktPicPath/skt.ico</file>
+        <file>SktPicPath/top.png</file>
+    </qresource>
+    <qresource prefix="/SktQssFilePath">
+        <file>SktQssFile.css</file>
+    </qresource>
+</RCC>

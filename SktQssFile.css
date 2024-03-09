@@ -1,0 +1,92 @@
+﻿QPushButton#offBtn:enabled{
+    border:0px;/*去边框*/
+    color:dodgerblue;/*深点的蓝色*/
+}
+
+QPushButton#offBtn:hover{
+    border:0px;
+    color:red;
+}
+
+QPushButton#menuBtn:enabled{
+    border:0px;
+}
+
+QPushButton#menuBtn:hover{
+    border:0px;
+    color:red;
+}
+
+QPushButton#indexBtn:hover{
+    border:0px;
+    color:red;
+}
+
+QPushButton#indexBtn:pressed{
+    border:0px;
+    color:red;
+}
+
+QPushButton#videoBtn:hover{
+    border:0px;
+    color:red;
+}
+
+QPushButton#videoBtn:pressed{
+    border:0px;
+    color:red;
+}
+
+QPushButton#clnBtn{
+    border:0px;
+    color:white;
+}
+
+QPushButton#clnBtn:hover{
+    border:0px;
+}
+
+QLabel#clnLbl{
+    color:white;
+}
+
+QPushButton#devBtn,QPushButton#addBtn{
+    border:0px;
+}
+
+QTreeWidget#cmaListWdt::item{
+    height:30px;
+}
+
+QTreeWidget#cmaListWdt::item:selected{
+    /*height:30px;*/
+    background-color:red;
+}
+
+QSlider::handle:horizontal{
+    border-radius:5px;/*添加圆角边框*/
+    margin:-3px 3px -3px 3px;/*外边距*/
+    border:0px solid #ffffff;
+    width:10px;
+    background:green;
+}
+
+QSlider::groove:horizontal{
+    height:5px;
+    background:#dcdcdc;
+}
+
+QSlider::sub-page:horizontal{
+    background:qlineargradient(spread:pad,x1:0,y1:1,x2:0,y2:0,
+    stop:0.25 rgba(255,0.0.255),
+    stop:0 rgba(255,0,0,255),
+    stop:0.5 rgba(255,0.0,255),
+    stop:1 rgba(255,0,0,255));
+}
+
+
+
+
+
+
+
